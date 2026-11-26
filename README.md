@@ -1,2 +1,2 @@
 # Web-Technology
-HTML and CSS files that I've been working on for the course requirement of CSC318
+This repository contains HTML and CSS files that are work-in-progress for the course requirement of CSC318.
